@@ -15,6 +15,6 @@ Analyzed Ecommerce sales Data created a interactive dashboard in Power-BI
 
 <img src="https://imgur.com/lHisDgP.png" height="100%" width="100%" alt=""/>
 
-<img src="https://imgur.com/6Cc232m.png" height="100%" width="100%" alt=""/>
 
-<img src="https://imgur.com/6Cc232m.png" height="100%" width="100%" alt=""/>
+<img src="https://imgur.com/yW3MK5Q.png" height="100%" width="100%" alt=""/>
+<img src="https://imgur.com/V5GUNal.png" height="100%" width="100%" alt=""/>
