@@ -7,6 +7,6 @@ Analyzed Ecommerce sales Data created a interactive dashboard in Power-BI
 -Created connections, join new tables,calculation to manipulate data and enable user driven parameters for visualizations.</br>
 -Used different types of customized visualization.
 
-<img src="https://imgur.com/a3ISLjq.png" height="100%" width="100%" alt=""/>
+<img src="https://imgur.com/fW3XCr1.png" height="100%" width="100%" alt=""/>
 <br /> 
 
