@@ -1,5 +1,5 @@
 # Power-BI
-Analyzed Ecommerce sales Data created a interactive dashboard in Power-BI
+Analyzed Ecommerce Sales data dashboard using Power-BI
 
 <h4>Project Learnings</h4>
 -Created interactive dashboard to track and analyze online sales date</br>
