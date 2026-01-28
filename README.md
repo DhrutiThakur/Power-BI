@@ -1,10 +1,13 @@
 Analyzed Ecommerce Sales data dashboard using Power-BI
 
 <h4>Project Learnings</h4>
--Created interactive dashboard to track and analyze online sales date</br>
--Used complex parameters to drill down in worksheet and customization using filters and slicers.</br>
--Created connections, join new tables,calculation to manipulate data and enable user driven parameters for visualizations.</br>
--Used different types of customized visualization.
+-Developed interactive dashboards to track, monitor, and analyze online sales data, enabling data-driven decision making.
+
+-Implemented advanced parameters to enable drill-down analysis and enhanced interactivity using filters and slicers.
+
+-Built data connections, joined multiple tables, and created calculated fields to transform raw data into meaningful insights and user-driven visualizations.
+
+-Designed and customized a variety of  visualizations to effectively present trends, patterns, and key performance metrics.
 
 <h4>Project Walk through</h4>
 
